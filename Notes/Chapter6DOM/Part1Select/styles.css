@@ -1,0 +1,10 @@
+.virhe{
+    border: 1px dotted crimson;
+    color: crimson;
+    padding: 10 px;
+}
+
+.success{
+    border: 1px dotted green;
+    color: green;
+}
